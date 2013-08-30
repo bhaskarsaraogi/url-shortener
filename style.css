@@ -1,0 +1,30 @@
+body {
+	background: #333;
+	color: white;
+	width: 500px;
+	margin: auto;
+	padding-top: 100px;
+	text-align: center;
+	font-family: sans-serif;
+}
+
+a {
+	color: #999;
+}
+input[type=text] {
+	width: 90%;
+	height: 40px;
+	font-size: 25px;
+	color: #666;
+}
+
+/*input[type=submit] {
+	height = 40px;
+	background: white;
+	float: right;
+}*/
+
+.error {
+	color:red;
+	font-style: italic;
+}
